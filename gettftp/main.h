@@ -17,3 +17,5 @@
 #include <netdb.h>
 
 #define NORMAL_ARG_COUNT 3
+#define BYTE_LENGTH 8
+
